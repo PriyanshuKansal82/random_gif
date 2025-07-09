@@ -1,7 +1,7 @@
 # 🎉 Random GIF Generator
 
 **Random GIF Generator**  
-*React, JavaScript, API, Tailwind CSS*  
+*React.Js, JavaScript, API, Tailwind CSS*  
 🔗 [GitHub](https://github.com/PriyanshuKansal82/random_gif) | 🌐 [Live Demo](https://priyanshukansal82.github.io/random_gif/)  
 
 ---
