@@ -8,7 +8,7 @@
 
 ## 📝 Description
 
-The **Random GIF Generator** is a fun and engaging web app that shows you a new animated GIF every time you click a button. Whether you're looking to express an emotion, get a laugh, or just enjoy some randomness, this tool delivers GIFs directly from an API (like GIPHY or Tenor) to keep things fresh and entertaining. 😄📷
+The **Random GIF Generator** is a fun and engaging web app that shows you a new animated GIF every time you click a button. Whether you're looking to express an emotion, get a laugh, or just enjoy some randomness, this tool delivers GIFs directly from an API (like GIPHY) to keep things fresh and entertaining. 😄📷
 
 ---
 
