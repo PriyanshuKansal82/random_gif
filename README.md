@@ -17,7 +17,6 @@ The **Random GIF Generator** is a fun and engaging web app that shows you a new 
 - 🎥 **Instant GIFs** – One click, one random GIF.
 - 🌈 **Explore Variety** – GIFs from all emotions, reactions, and themes.
 - 🎨 **Custom or Surprise** – Choose what you want or let the app decide.
-- 💾 **Share or Save** – Easily download or share your favorite GIFs.
 
 ---
 
